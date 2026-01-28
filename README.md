@@ -1,8 +1,8 @@
 # Ciao, sono Elisa! 👋
 
-![Foto_prrofilo](elisascifo/img elisa-laurea.jpg)
+![Foto_prrofilo](img elisa-laurea.jpg)
 
-### 🚀 Dalla Mediazione Linguistica alla Data Science: Interpretare il futuro attraverso i dati.
+###  Dalla Mediazione Linguistica alla Data Science: Interpretare il futuro attraverso i dati.
 
 Sono una studentessa magistrale in **Scienze del testo per le professioni digitali (LM-43)** con un background in **Mediazione Linguistica (L-12)**. La mia missione? Dimostrare che l'analisi dei dati è l'evoluzione naturale della decodifica del linguaggio.
 
