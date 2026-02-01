@@ -25,3 +25,4 @@ Sono una studentessa magistrale in **Scienze del testo per le professioni digita
 ###  ☎️ Contatti
 * **Linkedin:** www.linkedin.com/in/elisascifo
 * **Instagram:** https://www.instagram.com/elisa_scifo/
+* **e-mail:** elisa.scifo.elisa@gmail.com
