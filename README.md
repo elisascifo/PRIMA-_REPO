@@ -17,8 +17,8 @@ Sono una studentessa magistrale in **Scienze del testo per le professioni digita
 | :--- | :--- |
 | **Data Analysis** | Python (Pandas, NumPy), SQL, Git |
 | **Data Visualization** | Gephi, Microsoft Excel, Google Sheet |
-| **Web Dev** | HTML5, CSS3, PHP, Javascript, XML TEI, Bootstrap |
 | **Future Tech** | AI Prompt Engineering, Machine Learning, Deep Learning |
+| **Web Dev** | HTML5, CSS3, PHP, Javascript, XML TEI, Bootstrap |
 
 ---
 
